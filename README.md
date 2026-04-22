@@ -26,10 +26,10 @@ Add your deployed link here:(https://ak011125.github.io/MinorProject-Internvisio
 ## 📂 Project Structure
 
 dev-folio-project/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+- index.html
+- style.css
+- script.js
+- README.md
 
 ## ✅ Validation Rules
 
