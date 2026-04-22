@@ -3,8 +3,7 @@
 A responsive personal portfolio website built using HTML, CSS, Bootstrap, and JavaScript.
 
 ## 🚀 Live Demo
-Add your deployed link here:
-https://yourusername.github.io/dev-folio-project/
+Add your deployed link here:(https://ak011125.github.io/MinorProject-Internvision/)
 
 ## 📌 Features
 
